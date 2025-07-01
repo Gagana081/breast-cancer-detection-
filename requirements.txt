@@ -1,0 +1,11 @@
+TensorFlow 
+Flask
+Streamlit
+NumPy
+Pandas
+OpenCV
+Pillow
+Scikit-learn
+Scikit-image
+Matplotlib
+Seaborn
